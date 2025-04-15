@@ -1,4 +1,4 @@
-### Overview
+# Overview
 This repository contains a project focused on Convolutional Neural Networks (CNNs).
 Experiments were conducted on the MNIST, CIFAR-10, and CIFAR-100 datasets.
 
@@ -10,7 +10,7 @@ After training the models from scratch, fine-tuning was performed on a pre-train
 
 ---
 
-### Install
+# Install
 Clone the repository and install the requirements:
 
 ```bash
@@ -21,7 +21,7 @@ conda activate edoardosarri
 wandb login
 ```
 
-### Run
+# Run
 To run the code:
 - Open the notebook called main.ipynb`.
 - If you wish to save the images, set the flag under the imports to True and set your desired path.
