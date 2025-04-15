@@ -15,8 +15,8 @@ After training the models from scratch, fine-tuning was performed on a pre-train
 Clone the repository and install the requirements:
 
 ```bash
-git clone 
-cd 
+git clone https://github.com/edoardosarri24/CNN.git
+cd CNN
 conda env create -f environment.yml -n edoardosarri
 conda activate edoardosarri
 wandb login
