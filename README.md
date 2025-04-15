@@ -1,6 +1,5 @@
 ### Overview
 This repository contains a project focused on Convolutional Neural Networks (CNNs).
-
 Experiments were conducted on the MNIST, CIFAR-10, and CIFAR-100 datasets.
 
 The models implemented include:
@@ -24,6 +23,6 @@ wandb login
 
 ### Run
 To run the code:
-- Open the notebook called ´main.ipynb`.
+- Open the notebook called main.ipynb`.
 - If you wish to save the images, set the flag under the imports to True and set your desired path.
 - Run the notebook.
