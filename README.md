@@ -1,9 +1,7 @@
 # Overview
 This repository contains a project focused on Convolutional Neural Networks (CNNs). Experiments were conducted on the MNIST, CIFAR-10, and CIFAR-100 datasets.
 
-After training the models from scratch, fine-tuning was performed on a pre-trained model using a different dataset. The models implemented include:
-- Multilayer Perceptrons (MLPs)
-- Convolutional Neural Networks, with a focus on ResNet architectures
+After training the models from scratch, fine-tuning was performed on a pre-trained model using a different dataset. The models implemented include: Multilayer Perceptrons (MLPs); Convolutional Neural Networks, with a focus on ResNet architectures.
 
 The code does not necessarily need to be executed. If you’re only interested in the results, you can simply refer to the report provided in the `relazione.pdf` file.
 
