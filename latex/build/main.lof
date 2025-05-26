@@ -1,0 +1,31 @@
+\babel@toc {italian}{}\relax 
+\babel@toc {italian}{}\relax 
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Distribuzione del train set}}{5}{figure.caption.3}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces t-SNE in due dimensioni MNIST e CIFAR-10}}{6}{figure.caption.4}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Esempio CIFAR-10 RGB}}{6}{figure.caption.5}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Esempio CIFAR-100 RGB}}{7}{figure.caption.6}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces t-SNE in due dimensioni CIFAR-10 e CIFAR-100}}{7}{figure.caption.7}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Loss e Accuracy MLP\_4, MLP\_13 e MLP\_23.}}{9}{figure.caption.8}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Loss e Accuracy MLP\_33.}}{9}{figure.caption.9}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Analisi sulla somma delle norme dei parametri.}}{10}{figure.caption.10}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Loss e Accuracy MLP\_res.}}{10}{figure.caption.11}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Training time in second (s).}}{10}{figure.caption.12}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Somma delle norme dei parametri nei modelli con residual connection.}}{11}{figure.caption.13}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Esperimenti CNN non profonde senza residual connection}}{12}{figure.caption.14}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Esperimento CNN profonda senza residual connection}}{13}{figure.caption.15}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Esperimenti CNN con residual connection}}{13}{figure.caption.16}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Training time in CNN}}{14}{figure.caption.17}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Fine tune con stesso learning rate.}}{16}{figure.caption.18}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Fine tune con learning rate decrescente}}{17}{figure.caption.19}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Esperimento con early stopping con \texttt {patience=5}}}{18}{figure.caption.20}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Esperimento con diversi ottimizzatori e \texttt {lr=5e-4}}}{18}{figure.caption.21}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Esperimento con diversi ottimizzatori e \texttt {lr=1e-5}}}{19}{figure.caption.22}%
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Ricerca degli iperparametri}}{20}{figure.caption.23}%
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Ricerca degli iperparametri: esperimenti migliori.}}{20}{figure.caption.24}%
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Esperimento con dropout.}}{21}{figure.caption.25}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

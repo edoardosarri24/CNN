@@ -1,0 +1,25 @@
+\babel@toc {italian}{}\relax 
+\babel@toc {italian}{}\relax 
+\contentsline {chapter}{\numberline {1}Introduzione}{4}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Main}{4}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Moduli Python}{4}{section.1.2}%
+\contentsline {chapter}{\numberline {2}Analisi Dataset}{5}{chapter.2}%
+\contentsline {section}{\numberline {2.1}MNIST}{5}{section.2.1}%
+\contentsline {section}{\numberline {2.2}CIFAR-10}{5}{section.2.2}%
+\contentsline {section}{\numberline {2.3}CIFAR-100}{6}{section.2.3}%
+\contentsline {chapter}{\numberline {3}Multilayer Perceptron}{8}{chapter.3}%
+\contentsline {subsection}{\numberline {3.0.1}Scelte}{8}{subsection.3.0.1}%
+\contentsline {section}{\numberline {3.1}Analisi senza residual connection}{8}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Analisi con residual connection}{9}{section.3.2}%
+\contentsline {chapter}{\numberline {4}Convolutional Neural Network}{12}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Analisi senza residual connection}{12}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Analisi con residual connection}{13}{section.4.2}%
+\contentsline {chapter}{\numberline {5}Fine Tune A Pre-Trained Model}{15}{chapter.5}%
+\contentsline {subsection}{\numberline {5.0.1}Scelte}{15}{subsection.5.0.1}%
+\contentsline {section}{\numberline {5.1}Baseline}{15}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Fine tune}{16}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Early stopping}{17}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Optimizer}{18}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Iperparametri}{19}{section.5.5}%
+\contentsline {section}{\numberline {5.6}Dropout e generalizzazione}{20}{section.5.6}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

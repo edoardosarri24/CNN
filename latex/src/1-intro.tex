@@ -1,0 +1,21 @@
+\chapter{Introduzione}
+
+In questo primo capitolo viene spiegata l'organizzazione del progetto.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Main}
+Il main del progetto è rappresentato dal Jupyter notebook \texttt{main.ipynb}. È stata presa questa decisione per aumentare la leggibilità delle funzioni chiamate per arrivare ai risultati. La struttura del notebook infatti è la stessa di questa relazione.
+
+Questo documento è pensato per non far eseguire il notebook a chi è interessato ai risultati. Ogni grafico stampato dal codice, derivato dai log su W\&B \cite{wandb} (framework usato durante tutto il progetto per tracciare gli esperimenti) o risultato dei vari esperimenti è riassunto in questa relazione. Con questa idea i vari file \texttt{.py} sono utili non per capire cosa è stato fatto, ma come è stato fatto.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Moduli Python}
+Le funzioni chiamate nel \texttt{main.py} sono importate da quattro moduli:
+\begin{itemize}
+    \item \texttt{myModel.py} \\
+        Contiene i modelli usati nel progetto e sono classi che estendono \texttt{nn.Module}. Spesso si utilizzano gli stessi blocchi di base, definiti in \texttt{modelBlock.py}.
+    \item \texttt{coreFunction.py} \\
+        Contiene le funzioni responsabili dell'addestramento, dell'estrazione dell'accuracy, della pipeline usata durante tutto il progetto e del feature extractor.
+    \item \texttt{utilityFunction.py} \\
+        Contiene funzioni ausiliarie per rendere il codice più leggibile e riutilizzabile. Sono funzioni chiamate più volte e che svolgono compiti precisi.
+\end{itemize}
