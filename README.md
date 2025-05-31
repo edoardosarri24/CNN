@@ -20,5 +20,5 @@ wandb login
 To run the code:
 - Open the notebook called `main.ipynb`.
 - If you wish to save the images, set the flag under the imports to True and set your desired path.
-- Select the edoardosarri environment.
+- Select the edoardosarri environment created in the install pass.
 - Run the notebook.
